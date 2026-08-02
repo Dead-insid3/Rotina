@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Semânticas — modo CLARO (base). O modo escuro fica em values-night. -->
+    <color name="bg">#FFF7F2F3</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surface_variant">#FFEDE4E6</color>
+    <color name="on_bg">#FF1A1114</color>
+    <color name="on_bg_muted">#FF6B575B</color>
+    <color name="focus">#FFE11D2E</color>
+    <color name="focus_hot">#FFC70F1F</color>
+    <color name="on_focus">#FFFFFFFF</color>
+    <color name="outline">#FFD9C8CC</color>
+</resources>
